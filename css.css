@@ -1,0 +1,38 @@
+p {
+    color: blue;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+}
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+p {
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+}
+img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-bottom: 10px;
+}
+p:last-child {
+    color: rgb(175, 9, 106);
+    font-weight: bold;
+}
+  
+  
